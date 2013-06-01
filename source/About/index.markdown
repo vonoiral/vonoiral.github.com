@@ -1,8 +1,8 @@
 ---
-title: "Никита Ларионов"
 layout: page
+title: "Никита Ларионов"
 sharing: true
-footer: true
+footer: false
 external-url: http://blog.vonoiral.com/about
 ---
 
