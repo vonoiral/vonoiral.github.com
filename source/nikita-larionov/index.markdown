@@ -2,9 +2,9 @@
 layout: page
 title: "nikita-larionov"
 date: 2013-06-01 21:17
-comments: true
+comments: false
 sharing: true
 footer: true
 ---
 
-123
+<script src="//about.me/embed/vonoiral?image=0&amp;name=0&amp;headline=0&amp;style=site"></script>
