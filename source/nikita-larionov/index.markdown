@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "nikita-larionov"
+title: "Никита Ларионов"
 date: 2013-06-01 21:17
 comments: false
 sharing: true
