@@ -3,12 +3,12 @@ layout: post
 title: "Reading 6: Новостные агрегаторы, краудинвестинг, графический дизайн"
 date: 2013-04-26 00:56
 comments: true
-categories: reading, newsaggregator, crowdfunding
+categories: [reading, newsaggregator, crowdfunding]
 ---
 
 Несколько недель назад я [написал](http://blog.vonoiral.com/post/news-aggregator-) о своём отношении к сервисам, которые агрегируют новости. Сегодня я хочу рассказать, почему я в принципе заинтересовался этой темой.
 
-{{more}}
+<!-- more -->
  
 Помимо объективных проблем, с которыми я столкнулся в процессе подготовки [диссертации по краудфандингу](http://blog.vonoiral.com/post/crowdfunding) и других работ; меня очень заинтересовала общая ситуация на этом рынке.
 
