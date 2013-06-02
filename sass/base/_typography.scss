@@ -12,6 +12,7 @@ $h3: 1.3em !default;
 $h4:   1em !default;
 $h5:  .9em !default;
 $h6:  .8em !default;
+$body: 2em;
 
 // Fonts
 .heading {
@@ -34,7 +35,7 @@ body > header h2 {
 }
 
 body {
-  line-height: 1.5em;
+  line-height: 1.7em;
   color: $text-color;
   @extend .serif;
 }
