@@ -32,3 +32,5 @@ categories: [reading, crowdfunding]
 <br>
 <script type='text/javascript' src='http://pshared.5min.com/Scripts/PlayerSeed.js?sid=281&width=560&height=345&playList=517716968'></script>
 </br>
+
+[**Прошлые статьи рубрики**](http://blog.vonoiral.com/blog/categories/reading/)

@@ -20,10 +20,4 @@ categories: reading
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/bdTELokKfCk?list=PLls1W-SjzeFPTgknTNGW9z8m9iqwBykeu" frameborder="0" allowfullscreen></iframe>
 
-**Прошлые статьи рубрики:**
-
-[Reading 1: Что читать финансовому советнику](http://blog.vonoiral.com/post/reading-1-)
-
-[Reading 2: Знак равенства](http://blog.vonoiral.com/post/reading-2-)
-
-[Reading 3: Бизнес на 75%](http://blog.vonoiral.com/post/reading-3-75) 
+[**Прошлые статьи рубрики**](http://blog.vonoiral.com/blog/categories/reading/)

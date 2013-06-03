@@ -39,15 +39,5 @@ categories: [reading, newsaggregator, crowdfunding]
 В статье из шестого пункта упомянут сервис **[PageLayers](http://www.pagelayers.com)**, позволяющий разбить любой сайт на слои для последующей обработки. Думаю дизайнерам, читающим этот блог он тоже будет полезен.    
 
 
-##Прошлые статьи рубрики:
-
-[Reading 1: Что читать финансовому советнику](http://blog.vonoiral.com/post/reading-1-)
-
-[Reading 2: Знак равенства](http://blog.vonoiral.com/post/reading-2-)
-
-[Reading 3: Бизнес на 75%](http://blog.vonoiral.com/post/reading-3-75) 
-
-[Reading 4: Блогеры](http://blog.vonoiral.com/post/reading-4-)
-
-[Reading 5: Краудфандинг, облака, гики и Apple](http://blog.vonoiral.com/post/reading-5-apple)
+[**Прошлые статьи рубрики**](http://blog.vonoiral.com/blog/categories/reading/)
 

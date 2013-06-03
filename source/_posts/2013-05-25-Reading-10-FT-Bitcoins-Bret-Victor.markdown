@@ -30,4 +30,4 @@ categories: reading
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMf9GlLXouA?list=PLls1W-SjzeFPTgknTNGW9z8m9iqwBykeu" frameborder="0" allowfullscreen></iframe>
 
-[**Прошлые статьи рубрики**](http://blog.vonoiral.com/tag/reading)
+[**Прошлые статьи рубрики**](http://blog.vonoiral.com/blog/categories/reading/)

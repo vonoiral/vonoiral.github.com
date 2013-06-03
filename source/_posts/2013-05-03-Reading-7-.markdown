@@ -28,16 +28,4 @@ categories: [reading, england]
 
 <iframe width="480" height="360" src="http://www.kickstarter.com/projects/1869987317/wish-i-was-here-1/widget/video.html" frameborder="0"> </iframe>
 
-##Прошлые статьи рубрики:
-
-[Reading 1: Что читать финансовому советнику](http://blog.vonoiral.com/post/reading-1-)
-
-[Reading 2: Знак равенства](http://blog.vonoiral.com/post/reading-2-)
-
-[Reading 3: Бизнес на 75%](http://blog.vonoiral.com/post/reading-3-75) 
-
-[Reading 4: Блогеры](http://blog.vonoiral.com/post/reading-4-)
-
-[Reading 5: Краудфандинг, облака, гики и Apple](http://blog.vonoiral.com/post/reading-5-apple)
-
-[Reading 6: Новостные агрегаторы, краудинвестинг, графический дизайн](http://blog.vonoiral.com/post/reading-6-)
+[**Прошлые статьи рубрики**](http://blog.vonoiral.com/blog/categories/reading/)

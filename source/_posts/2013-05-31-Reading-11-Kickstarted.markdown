@@ -27,4 +27,4 @@ categories: [reading, crowdfunding]
 
 <iframe width="480" height="360" src="http://www.kickstarter.com/projects/doublefine/double-fines-massive-chalice/widget/video.html" frameborder="0"> </iframe>
 
-[**Прошлые статьи рубрики**](http://blog.vonoiral.com/tag/reading)
+[**Прошлые статьи рубрики**](http://blog.vonoiral.com/blog/categories/reading/)
