@@ -5,7 +5,7 @@ title: "MOOC"
 date: 2013-04-19 00:56
 comments: true
 categories: OnlineLearning
-keywords: mooc на русском, massive open online courses на русском, учимся mooc, русскоязычный mooc, MOOC 
+keywords: mooc на русском, massive open online courses на русском, учимся mooc, русскоязычный mooc, MOOC, mooc курсы 
 
 ---
 

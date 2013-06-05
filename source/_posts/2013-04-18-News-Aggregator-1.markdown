@@ -4,6 +4,8 @@ title: "News Aggregator: Агрегатор новостей: простор д�
 date: 2013-04-18
 comments: true
 categories: aggregator
+keywords: агрегатор новостей python
+
 ---
 
 *Статья перенесена с [Хабра](http://habrahabr.ru/users/vonoiral/), так как заслужила инвайт*.
