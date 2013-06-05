@@ -4,7 +4,7 @@ layout: post
 title: "Reading 7: Англия, HR, Успех в бизнесе, Аукционы"
 date: 2013-05-03
 comments: true
-categories: [reading, england]
+categories: [reading, england, books]
 
 ---
 
