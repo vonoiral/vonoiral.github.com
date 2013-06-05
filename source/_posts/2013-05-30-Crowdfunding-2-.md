@@ -1,9 +1,12 @@
 ---
+
 layout: post
 title: "Crowdfunding 2: Краудфандинг в России?"
 date: 2013-05-30
 comments: true
 categories: crowdfunding
+keywords: краудфандинг в России, кикстартер, краудфандинг, краудфандинг сайты, диссертация краудфандинг, краудфандинг курсовая
+
 ---
 
 

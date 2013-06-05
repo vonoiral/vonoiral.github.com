@@ -1,9 +1,11 @@
 ---
+
 layout: post
 title: "Reading 9: Фейнман, Краудфандинг, Как стать умнее?"
 date: 2013-05-17
 comments: true
 categories: [reading, crowdfunding]
+keywords: краудфандинг в России, кикстартер, краудфандинг, краудфандинг сайты
 
 ---
 
