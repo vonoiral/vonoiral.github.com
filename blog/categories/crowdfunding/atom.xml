@@ -1,124 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Толпа профинансирует!</title>
- <!-- <meta name="author" content="Никита Ларионов">
-
-  
-  <meta name="description" content="Этот пост я пишу по свежим впечатлениям от секции Краудинвестинг на РИФ+КИБ 2014. Перед тем как описать состояние отрасли краудинвестинга в России &hellip;">
-  -->
-
-  <meta name="author" content="Никита Ларионов">
-
-
-<meta name="description" content="Блог Никиты Ларионова о экономике, финансах, краудфандинге, краудлендинге, краудинвестинге и маркетинге.">
-<meta name="keywords" content="">
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://vonoiral.github.io">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="http://feeds.uri.lv/saratovmanchester" rel="alternate" title="Толпа профинансирует!" type="application/atom+xml">
-  <link href="/stylesheets/data-table.css" media="screen, projection" rel="stylesheet" type="text/css" />
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=TM0oX*T3ZCuPpm94COmRFGyXs6M*P6v1rm4Au*7n5/vpQdZ4Sw5hy34rN0Uao90du*Tg0v06fYsXGjl6*6HdPfy5CtumPuZye9WkxtuiQ1/XQPgr87araclnX3IfIIbytRsv7R/5sCsYIKGcqYa9zwwbPHXS43QJPVBkl9ALsoc-';</script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href='http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700' rel='stylesheet' type='text/css'>
-<meta name="google-site-verification" content="nGJ-LrSsN_3gofYGDvdr2rmea0y37MaEZmw1IXqgWFo" />
-  <!-- nPZYiW-f0g3MnLc2dcRGEBvZWLQ -->
-
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-38087962-2']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Толпа профинансирует!</a></h1>
-  
-    <h2>Краудфандинг, краудинвестинг и краудлендинг.</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="http://feeds.uri.lv/saratovmanchester" rel="subscribe-rss" title="подписаться на RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:vonoiral.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Поиск"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/blog/archives">Архив</a></li>
-  <li><a href="/nikita-larionov/">Об авторе</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Категория: crowdfunding | Толпа профинансирует!]]></title>
+  <link href="http://vonoiral.github.io/blog/categories/crowdfunding/atom.xml" rel="self"/>
+  <link href="http://vonoiral.github.io/"/>
+  <updated>2014-04-29T18:05:30+04:00</updated>
+  <id>http://vonoiral.github.io/</id>
+  <author>
+    <name><![CDATA[Никита Ларионов]]></name>
     
-      <h1 class="entry-title"><a href="/post/Crowdinvesting-in-Russia">Краудинвестинг в России: казнить нельзя помиловать</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2014-04-29T18:00:00+04:00" pubdate data-updated="true">Вторник, 29 Апреля 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><em>Этот пост я пишу по свежим впечатлениям от <a href="http://2014.russianinternetforum.ru/program/1429">секции Краудинвестинг</a> на <a href="http://2014.russianinternetforum.ru">РИФ+КИБ 2014</a>.</em></p>
+  <entry>
+    <title type="html"><![CDATA[Краудинвестинг в России: казнить нельзя помиловать]]></title>
+    <link href="http://vonoiral.github.io/post/Crowdinvesting-in-Russia"/>
+    <updated>2014-04-29T18:00:00+04:00</updated>
+    <id>http://vonoiral.github.io/post/Crowdinvesting-in-Russia</id>
+    <content type="html"><![CDATA[<p><em>Этот пост я пишу по свежим впечатлениям от <a href="http://2014.russianinternetforum.ru/program/1429">секции Краудинвестинг</a> на <a href="http://2014.russianinternetforum.ru">РИФ+КИБ 2014</a>.</em></p>
 
 <p>Перед тем как описать состояние отрасли краудинвестинга в России необходимо дать небольшую вводную, раскрывающую понятие краудинвестинга и обозначающую место краудинвестинга в мире.</p>
 
@@ -167,42 +67,15 @@
 
 
 <p><strong>В сухом итоге, рождение краудинвестинга в России в очередной раз откладывается. Однако, очень радует факт появления проекта, дающего стартапам доступ к лучшим инвесторам, а инвесторам возможность &ldquo;распаковать&rdquo; стартапы.</strong></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/post/What-is-knopka-com">Кнопка – сервис для успешных краудфандинговых компаний</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-04-21T08:42:00+04:00" pubdate data-updated="true">Понедельник, 21 Апреля 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><em>Статья написана по свежим впечатлениям от</em> <a href="http://knopka.com/event/"><em>презентации Кнопки</em></a><em>, прошедшей в четверг 17 апреля.</em></p>
+  <entry>
+    <title type="html"><![CDATA[Кнопка – сервис для успешных краудфандинговых компаний]]></title>
+    <link href="http://vonoiral.github.io/post/What-is-knopka-com"/>
+    <updated>2014-04-21T08:42:00+04:00</updated>
+    <id>http://vonoiral.github.io/post/What-is-knopka-com</id>
+    <content type="html"><![CDATA[<p><em>Статья написана по свежим впечатлениям от</em> <a href="http://knopka.com/event/"><em>презентации Кнопки</em></a><em>, прошедшей в четверг 17 апреля.</em></p>
 
 <p>По личному опыту, большинство краудфандинговых проектов начинает испытывать трудности не на этапе сбора денег, а уже после завершения краудфандинговой компании. У их создателей возникает множество проблем, о которых никто даже не задумывался затевая сбор средств через краудфандинг. Часто такие проблемы возникают в отраслях бизнеса, от которых творческий человек, создатель технологического стартапа или настоящий художник очень далёк. Это юридические вопросы, вопросы налогообложения и, конечно, бухгалтерия.</p>
 
@@ -262,46 +135,19 @@
 
 <p>Ценник – 12 000р. в месяц. Есть ограничения только по бухгалтерии: в рамках абонентской платы не более 20 строчек выписки, ведение не более одного сотрудника. Юрист и ассистент — безлимитно. Можно использовать только консультации. Можно передать в ведение всю бухгалтерию. Можно открыть счёт Банке и перевести всю операционную деятельность.</p>
 
-<iframe src="//instagram.com/p/m5W_a7s1Ie/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<iframe src="http://vonoiral.github.io//instagram.com/p/m5W_a7s1Ie/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 
 <p><em>Вот такая она Кнопка, сервис о котором реально хочется написать. Уверен, близится тот день, когда мне посчастливится если и не стать его клиентом, то пообщаться с ним поближе.</em></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/post/How-could-one-get-maximum-from-smm-in-crowdfunding">Как получить максимум от использования социальные сетей при сборе денег через краудфандинг?</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-12-18T12:00:00+04:00" pubdate data-updated="true">Среда, 18 Декабря 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>На этой недели у этого блога появились профили в социальных сетях: <a href="https://www.facebook.com/pages/%D0%A2%D0%BE%D0%BB%D0%BF%D0%B0-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D1%83%D0%B5%D1%82/455133741263085">Facebook</a> и <a href="http://vk.com/public63049492">ВКонтакте</a>. К их созданию меня подтолкнула следующая статья.</p>
+  <entry>
+    <title type="html"><![CDATA[Как получить максимум от использования социальные сетей при сборе денег через краудфандинг?]]></title>
+    <link href="http://vonoiral.github.io/post/How-could-one-get-maximum-from-smm-in-crowdfunding"/>
+    <updated>2013-12-18T12:00:00+04:00</updated>
+    <id>http://vonoiral.github.io/post/How-could-one-get-maximum-from-smm-in-crowdfunding</id>
+    <content type="html"><![CDATA[<p>На этой недели у этого блога появились профили в социальных сетях: <a href="https://www.facebook.com/pages/%D0%A2%D0%BE%D0%BB%D0%BF%D0%B0-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D1%83%D0%B5%D1%82/455133741263085">Facebook</a> и <a href="http://vk.com/public63049492">ВКонтакте</a>. К их созданию меня подтолкнула следующая статья.</p>
 
 <p><em>Эта статья является переводом выдержек из исследования, впервые опубликованного <a href="http://www.crowdfundproductions.com/social-media-and-crowdfunding/">здесь</a>.</em></p>
 
@@ -341,42 +187,15 @@
 <h4>Часть 1. <a href="http://blog.vonoiral.com/post/RIW-2013-15-mistakes/">RIW 2013. 15 типичных ошибок краудфандингового проекта →</a></h4>
 
 <h4>Часть 2. <a href="http://blog.vonoiral.com/post/CrowdcultPro-2013-how-not-to-rich-sucess-with-crowdfunding/">CrowdcultPro 2013. Как (не) собрать денег через краудфандинг? →</a></h4>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/post/CrowdcultPro-2013-how-not-to-rich-sucess-with-crowdfunding">CrowdcultPro 2013. Как (не) собрать денег через краудфандинг?</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-12-16T09:00:00+04:00" pubdate data-updated="true">Понедельник, 16 Декабря 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><em>&ldquo;Дураки учатся на своих ошибках, а умные на чужих.&rdquo;</em>
+  <entry>
+    <title type="html"><![CDATA[CrowdcultPro 2013. Как (не) собрать денег через краудфандинг?]]></title>
+    <link href="http://vonoiral.github.io/post/CrowdcultPro-2013-how-not-to-rich-sucess-with-crowdfunding"/>
+    <updated>2013-12-16T09:00:00+04:00</updated>
+    <id>http://vonoiral.github.io/post/CrowdcultPro-2013-how-not-to-rich-sucess-with-crowdfunding</id>
+    <content type="html"><![CDATA[<p><em>&ldquo;Дураки учатся на своих ошибках, а умные на чужих.&rdquo;</em>
 <strong><em>Из выступления Антона Носика, на CrowdcultPro 2013.</em></strong></p>
 
 <p>Конец прошлой недели был очень богат на позитивные события. Одним из них стала <strong><a href="http://pro.crowdcult.com">CrowdcultPro</a></strong>, первая российская конференция, полностью посвящённая краудфандингу. Пусть не всё прошло так, как было запланировано, но в чём организаторы точно не прогадали, так это в богатстве контентного наполнения. Оба дня были насыщены интересными презентациями именитых спикеров. Мне удалось попасть на выступления <strong>Виктора Шендеровича, Ника Перумова, Антона Носика, <a href="http://mi3ch.livejournal.com">Дмитрия «Митрича» Чернышева</a></strong> и других безусловно заслуживающих упоминания выступающих. Полный список экспертов вы можете найти на <a href="http://pro.crowdcult.com">сайте конференции</a>.</p>
@@ -426,42 +245,15 @@
 
 
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/post/RIW-2013-15-mistakes">RIW 2013. 15 типичных ошибок краудфандингового проекта</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-10-27T20:20:00+04:00" pubdate data-updated="true">Воскресенье, 27 Октября 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Одним из самых интересных и запоминающихся выступлений третьего дня <a href="http://2013.russianinternetweek.ru">Russian Internet Week 2013</a>  (RIW 2013) для меня стала презентация <strong>Алексея Сорокина, CEO <a href="http://lpgame.ru">LPGame</a></strong>, запустившего успешную краудфандинговую компанию:<a href="http://boomstarter.ru/projects/24477/onlayn_igra_lpgame_novyy_sovremennyy_udobnyy_interfeys">&ldquo;Онлайн игра LPgame: Новый, современный, удобный интерфейс!&rdquo;</a>, которая собрала более пятиста тысяч рублей на Boomstarter.</p>
+  <entry>
+    <title type="html"><![CDATA[RIW 2013. 15 типичных ошибок краудфандингового проекта]]></title>
+    <link href="http://vonoiral.github.io/post/RIW-2013-15-mistakes"/>
+    <updated>2013-10-27T20:20:00+04:00</updated>
+    <id>http://vonoiral.github.io/post/RIW-2013-15-mistakes</id>
+    <content type="html"><![CDATA[<p>Одним из самых интересных и запоминающихся выступлений третьего дня <a href="http://2013.russianinternetweek.ru">Russian Internet Week 2013</a>  (RIW 2013) для меня стала презентация <strong>Алексея Сорокина, CEO <a href="http://lpgame.ru">LPGame</a></strong>, запустившего успешную краудфандинговую компанию:<a href="http://boomstarter.ru/projects/24477/onlayn_igra_lpgame_novyy_sovremennyy_udobnyy_interfeys">&ldquo;Онлайн игра LPgame: Новый, современный, удобный интерфейс!&rdquo;</a>, которая собрала более пятиста тысяч рублей на Boomstarter.</p>
 
 <p><img src="https://dl.dropboxusercontent.com/u/5371087/2013-10-18-RIW-2013.jpg" alt="image" /></p>
 
@@ -535,528 +327,7 @@
 <p>Надеюсь описанные выше пятнадцать ошибок, совершённых проектом LPGame, будут для вас полезными. Самый главный вывод: знайте свою <em>толпу</em>, ведь, только правильно работая с ней, вы сможете получить <em>финансирование</em>.</p>
 
 <p><em>Это первая отчётная запись с конференции RIW 2013, на которой я оказался при поддержке компании <a href="http://www.profactoring.ru">Лайф Факторинг</a>.</em></p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/post/iiun-13-ni-slova-pro-apple">Июнь&#8217;13. Ни слова про Apple</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-30T00:00:00+04:00" pubdate data-updated="true">Воскресенье, 30 Июня 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Для начала хочу напомнить, что <a href="http://googlereader.blogspot.ru/2013/03/powering-down-google-reader.html">1 июля прекратит существование Google Reader</a>, и  уже пора задуматься о замене. Самое интересное, что я сам пока не решил, на что переехать и использую офлайн решение в <a href="https://itunes.apple.com/ru/app/readkit/id588726889?mt=12">ReadKit</a>. Вот ссылка на <a href="http://getgini.com/google-reader-alternatives">68 возможных замен</a>. Уверен, что среди них каждый сможет найти наиболее подходящее решение.</p>
-
-<p>В этом месяце не было ни одной выпуска еженедельных ссылок, я думал о том, как переработать формат, как результат с сегодняшнего дня рубрика становится ежемесячной.</p>
-
-<p><img src="https://dl.dropboxusercontent.com/u/5371087/june_2013.png" alt="image" /></p>
-
-<p><strong><em>Новость месяца:</em> <a href="http://www.siliconrus.com/2013/06/prism/">Мир сквозь призму</a></strong></p>
-
-<p>На мой взгляд уже поздно истерить касательно PRISM <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, мы сами очень давно сливаем персональные данные в сеть в надежде, что никто и никогда их не увидит. Глупо! Мне кажется, важно не то, что ты сливаешь, так как информационный шум вероятнее всего поглотит любые твои метания, а то как ты это делаешь. Ключевой вопрос раскрытия любой информации в её полноте, релевантности и форме представления.</p>
-
-<p>На этой неделе я наткнулся на две иллюстрации того, как видна наша активность из интернета: просто <a href="https://blog.twitter.com/2013/geography-tweets-3">красивая карта Twitter</a> и пугающая своей <a href="http://wearedata.watchdogs.com">проработанностью карта WeAreData</a> из ещё не вышедшего хита <a href="http://watchdogs.ubi.com/">Watch_Dogs</a>. Как мне повезло не родиться параноиком в этом удивительном мире.</p>
-
-<p><strong><em>Книга месяца:</em> <a href="http://www.ozon.ru/context/detail/id/20039034/">К. Станиславский &ldquo;Моя жизнь в искусстве&rdquo;</a></strong></p>
-
-<p>Это одна из тех книг, от которых просто невозможно оторваться. Не смотря на сложность и иногда излишнюю детализированность изложения, книга позволяет не просто заглянуть за кулисы одного из лучших современных театров, но и окунуться в эпоху смены веков, которую мы видим глазами одного из самых талантливых российских режиссёров-самоучек. Истинно, что страсть может сломать любые преграды, а страсть, которая терзает гения способна изменить мир.</p>
-
-<p><strong><em>Приложение месяца:</em> <a href="http://www.literatureandlatte.com/scrivener.php">Scrivener</a></strong></p>
-
-<p>Сейчас, когда я заканчиваю первую главу диссертации в этой программе, меня терзает только один вопрос: &ldquo;Где она была, когда в прошлом году я писал диплом?&rdquo; Must have для писателей, учёных и студентов; в общем тех, кто очень много работает с текстом.</p>
-
-<p><strong><em>Фильм месяца:</em> <a href="http://www.kinopoisk.ru/film/468904/">Университет Монстров</a></strong></p>
-
-<p>Вместо того, чтоб петь дифирамбы анимации Pixar я приглашаю вас в  <a href="http://www.buzzfeed.com/adambvary/inside-steve-jobs-mindblowing-pixar-campus">фото тур по их студии</a>. Для меня это теперь рабочее место мечты.</p>
-
-<p><strong><em>Статья Месяца:</em> <a href="http://www.smashingmagazine.com/2013/06/28/how-to-launch-anything/">Как запустить практически любой проект. Smashing Magazine</a></strong></p>
-
-<p>В запуске проекта, оказывается, нет ничего сложного!</p>
-
-<ol>
-<li>Определите, чему вы можете научить потенциальных покупателей;</li>
-<li>Создайте страничку для сбора контактных данных в день, когда вам в голову пришла идея создания проекта;</li>
-<li>Просите её посетителей оставлять адреса электропочты. Ну, знаете, чтобы не пропустить ничего важного о его развитии;</li>
-<li>Разместите ссылку на эту страницу везде, где только можете;</li>
-<li>Напишите о продукте в блог и призовите людей подписаться на обновления;</li>
-<li>Разошлите ссылку на этот пост всему списку ваших контактов;</li>
-<li>Разместите ссылку на этот пост везде, где только можете;</li>
-<li>Повторите шаги 5, 6 и 7 минимум два раза, увеличивая размер списка рассылки;</li>
-<li>Анонсируйте дату запуска как можно раньше;</li>
-<li>Напишите подписчикам о запуске продукта за день до того, как он состоится;</li>
-<li>В день запуска разошлите письмо с анонсом и продолжайте работать, как проклятый, чтобы максимально громко заявить об этом событии;</li>
-<li>В конце дня запуска разошлите ещё одно письмо с объявлением о том, что распродажа продукта почти закончена и есть последний шанс купить его с ОГРОМНОЙ скидкой.</li>
-<li>???</li>
-<li>PROFIT!</li>
-</ol>
-
-
-<p><strong><em>Сайт месяца:</em> <a href="http://750words.com">750 Слов</a></strong></p>
-
-<p>Писать 750 слов каждый день невыносимо тяжело.</p>
-
-<p>Писать 750 слов каждый день безумно полезно.</p>
-
-<p>Писать 750 слов каждый день должен каждый.</p>
-
-<p>Писать 750 слов каждый день.</p>
-
-<p><strong><em>Видео месяца:</em> <a href="http://www.kinopoisk.ru/film/471644/">LEGO.Фильм</a></strong></p>
-
-<p>За неимением лучшего варианта:</p>
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/lPnY2NjSjrg" frameborder="0" allowfullscreen></iframe>
-
-
-<p>Таким для меня был жаркий июнь 2013.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Государственная программа США, с которой связан скандал с раскрытием личных данных крупнейшими IT компаниями американскому правительству. <a href="http://qps.ru/za5EL">Wikipedia</a><a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/post/home-screen">Home Screen</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-26T21:06:00+04:00" pubdate data-updated="true">Среда, 26 Июня 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Вот уже 5 лет моим основным телефоном является iPhone, прекрасное устройство, которым я безумно доволен. Сегодня я расскажу вам о том, что находится на его экране &ldquo;Home&rdquo;. Надеюсь, всем тем, кто заходит в мой блог с iOS устройств (если верить Яндекс.Метрике таких около 15%) эта статья будет  полезной. Так же все приложения доступны и для Андройд ;&ndash;)</p>
-
-<p><img src="https://dl.dropboxusercontent.com/u/5371087/Photo%2026-06-2013%2017%2020%2058.png" alt="image" /></p>
-
-<p>Не вижу смысла сейчас обсуждать последнюю iOS, так как уже сломано слишком много копий, от которых уже две недели разрывается мой РСС-ридер. Наверное лучший обзор написал <a href="http://mattgemmell.com/2013/06/12/ios-7/">Мэт Гэммел</a>, с которым я согласен по большинству пунктов. А ещё, мне кажется преждевременным обозревать незаконченный продукт.</p>
-
-<p>Так же я думаю, что нет смыла описывать стандартные приложения Apple.</p>
-
-<p>Приступим к обзору того, что вы очень скоро скачаете из App Store ;&ndash;)</p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/instagram/id389801252?mt=8">Instagram</a></strong> (бесплатно)</p>
-
-<p>Для меня это уже &ldquo;стандартное&rdquo; приложение, которое позволяет делиться фотографиями еды, ног, неба и котиков, а с недавнего времени ещё и создавать 15-секундные видеоролики.  К вышесказанному можно добавить только одно: подписывайтесь! <a href="http://instagram.com/igon">@igon</a></p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/evernote/id281796108?mt=8">Evernote</a></strong> (бесплатно)</p>
-
-<p>Идеальная замена стандартным Заметкам с прекрасной облачной синхронизацией. Не знаю, почему вы ещё не пользуетесь этим приложением.</p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/checkie-for-foursquare/id382356167?mt=8">Checkie</a></strong>  (бесплатно)</p>
-
-<p>Великолепно выполняет основную функцию <a href="https://foursquare.com/">foursquare</a>, а именно позволяет чекиниться в одно прикосновение. Ничего другого не делает.</p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/soundhound/id355554941?mt=8">Soundhound</a></strong> (бесплатно)</p>
-
-<p>Распознание музыки. Субъективно, работает намного быстрее чем Shazam.</p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/dropbox/id327630330?mt=8">Dropbox</a></strong> (бесплатно)</p>
-
-<p>Наверное лучший облачный сервис хранения данных. Благодаря нескольким реферальным программам сейчас мне доступно около 17Гб пространства. <a href="http://db.tt/ltN5idG">Вливайтесь и вы</a>!</p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/reeder/id325502379?mt=8">Reeder</a></strong> (99 Р.)</p>
-
-<p>Просто лучшая РСС-читалка<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, которая, надеюсь, скоро получит поддержку <a href="http://cloud.feedly.com/">Feedly</a>. Напоминаю, что во время весеннего обострения, связанного с закрытием Google Reader, я <a href="http://blog.vonoiral.com/post/News-Aggregator-1/">задумался о создании собственного решения</a>, но в связи с отсутствием времени, мой проект до сих пор находится на уровне идеи. И да, у этого блога есть <a href="http://feeds.uri.lv/saratovmanchester">РСС-фид</a>, подписывайтесь!</p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/lingvo-dictionaries-english/id391989146?mt=8">Lingvo</a></strong> (199 Р.)</p>
-
-<p>Лучший расширяемый словарь, который поддерживает огромное количество языков и распознание текста.</p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/runkeeper-gps-track-running/id300235330?mt=8">RunKeeper</a></strong> (бесплатно)</p>
-
-<p>GPS-трекер бега с набором тренировок, рассчитанных на разные уровни подготовки.</p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/google-maps/id585027354?mt=8">Google Maps</a></strong> (бесплатно)</p>
-
-<p>Отличная альтернатива неудачным картам от Apple и не работающим в Европе <a href="https://itunes.apple.com/ru/app/andeks.karty/id313877526?mt=8">Яндекс.Картам</a>.</p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/tweetbot-for-twitter-iphone/id428851691?mt=8">Tweetbot</a></strong> (99 Р.)</p>
-
-<p>Наверное лучший клиент для Твиттера, разработчикам которого придётся реально попотеть с переносом интерфейса на iOS 7.  Фолловьте <a href="https://twitter.com/igon">@igon</a>!</p>
-
-<p><strong><a href="https://itunes.apple.com/ru/app/downcast/id393858566?mt=8">Downcast</a></strong> (66 Р.)</p>
-
-<p>Самый функциональны плеер подкастов.</p>
-
-<p> <strong><a href="https://itunes.apple.com/ru/app/basecamp-official-app/id599139477?mt=8">Basecamp</a></strong> (условно бесплатно)</p>
-
-<p>На этом приложении я бы хотел остановиться поподробнее. Начну с того, что это разработка великолепной команды <a href="http://37signals.com">37signals</a>, авторов чумовой книги <a href="http://www.ozon.ru/context/detail/id/5193684/">Rework: Бизнес без предрассудков</a>. Приложение даёт доступ к одному из лучших сервисов совместной работы над проектами. Сам сервис не бесплатный, но даётся 60 дневный триальный период, за который вы сможете понять, нужен ли он вам.</p>
-
-<p> Присылайте свои экраны &ldquo;Home&rdquo;, уверен, на них тоже очень много всего интересного. И пишите, любым удобным вам способом, если нашли что-то полезное среди описанных мною приложений.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p><a href="http://ilyabirman.ru/meanwhile/all/rss-subscription/">Что такое РСС и зачем он нужен</a>, отлично описал Илья Бирман.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/post/chto-dielat-v-manchiestierie">Что делать в Манчестере?</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-21T22:02:00+04:00" pubdate data-updated="true">Пятница, 21 Июня 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Если аппетит обычно приходит во время еды, то самое сладкое в любой трапезе – послевкусие. Поговорить с вами сегодня я бы хотел о послевкусии от полугода, проведённых в Манчестере. И так как уже две недели я не радовал вас пятничными ссылками, сегодня  постараюсь описать Манчестер в уже знакомом формате списка рекомендаций, который составлен в зависимости от цели и продолжительности вашего визита в этот чудесный город.</p>
-
-<p><img src="https://dl.dropboxusercontent.com/u/5371087/i-love-mcr.png" alt="image" /></p>
-
-<p>Поехали!</p>
-
-<ol>
-<li><p>Для тех, кто собирается посетить <strong>Манчестер на выходных</strong>, начать я рекомендую с прекрасного <a href="http://visitmanchesterblog.wordpress.com/2013/06/21/3-ideas-for-this-weekend-in-manchester-21-23-june-2013/">официального блога</a>, в котором каждую неделю пишут о том, чем можно себя занять в субботу и воскресение. Иногда советы очень даже полезные, например, именно оттуда я узнал о фестивале народного театра в Oldham, фотографии с которого вы видели в <a href="http://instagram.com/igon">моей инстаграмме</a>.</p></li>
-<li><p>Для тех, кто собирается <strong>ехать в Манчестер учиться</strong> не лишним будет привести ссылки на сайты трёх университетов города: <a href="http://www2.mmu.ac.uk">Manchester Metropolitan University</a>, <a href="http://www.manchester.ac.uk">University of Manchester</a> и <a href="http://www.salford.ac.uk">University of Salford</a>. Университеты сильно разняться, например MMU традиционно считается центром дизайна, технологий и бизнеса, и я рекомендую уже сейчас ознакомиться с предлагаемыми программами, хотя, наверное, сроки UCAS уже прошли.</p></li>
-<li><p><strong>Манчестер</strong> – это по-настоящему <strong>футбольный город</strong>, в августе начнётся сезон, и я агитирую вас сходить на игру <a href="http://www.manutd.com/">Manchester United</a> или <a href="http://www.mcfc.com">Manchester City</a>. Хорошее настроение и море позитива гарантировано! Билеты настойчиво рекомендую покупать минимум за месяц – полтора: перед игрой цены взлетают в десятки раз.</p></li>
-<li><p>Если у вас <strong>в Манчестере от одного до трёх дней</strong>, то полезным будет ознакомиться с моим <a href="https://foursquare.com/igon/list/%D0%BC%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80">списком достопримечательностей на Foursquare</a>. В нём вы найдёте и <a href="http://www.heatonpark.org.uk/HeatonPark/">самый большой муниципальный парк севера Англии</a>, и <a href="http://www.yuzumanchester.co.uk">лучший японский ресторан</a>, в котором не подают суши, и ещё множество очень интересных мест ;&ndash;)</p></li>
-<li><p>Наконец тем, у кого <strong>в Манчестере всего пара часов</strong>, советую потратить их на посещение <a href="http://www.afflecks.com">Afflecs</a> – это просто уникальное место! Представьте, что Лондонский <a href="http://www.camdenlock.net">Camden Market</a> уместился в шесть этажей и оказался бы в самом творческом квартале северной культурной столицы Англии. Если упростить, то это торговый центр для агрессивно-прогрессивной молодёжи, который таит в себе столько всего, что и целой статьи не хватит, чтобы рассказать обо всём.</p></li>
-</ol>
-
-
-<p>Надеюсь эта заметка будет вам полезна при планировании поездки в Манчестер. Буду рад услышать от вас, понравился ли новый формат. Так сказать, жду фидбек ;&ndash;)</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/post/a-ia-vot-dien-rozhdieniia-budu-spravliat">А я вот день рождения буду справлять!</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-07T00:00:00+04:00" pubdate data-updated="true">Пятница,  7 Июня 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><em>Всем привет! Меня зовут Никита и я вечный студент.</em></p>
-
-<p>Наверное, именно таким должно было быть <a href="http://blog.vonoiral.com/post/About-the-blog/">первое сообщение</a> в этом блоге. Но каким-то непостижимым образом из личных заметок на коленке сейчас он перерос в нечто большее.  Появились <a href="http://blog.vonoiral.com/blog/categories/reading/">ссылки</a>, а потом и <a href="http://blog.vonoiral.com/blog/categories/crowdfunding/">краудфандинг</a>. И теперь, мне даже пришлось задуматься, могу ли я опубликовать сюда вот этот пост, касающийся исключительно моей личной жизни.</p>
-
-<p>Очень быстро было принято решение, что конечно могу, ведь и <a href="http://moscowlondon.livejournal.com/645538.html">более успешные блоггеры</a> один раз в год позволяют себе такую вольность. Я знаю, что вы самые лучшие читатели на свете и адекватно воспримете мои самокопания.</p>
-
-<p>Обычно по пятницам я публикую свежие новости и ссылки, но сегодня особенная пятница и я представляю на ваш суд пять событий, из которых для меня сложился прошедший год. Для вашего удобства они расположены в строго хронологическом порядке.</p>
-
-<ol>
-<li><p><strong>Диплом и университет</strong>. Мне не вериться, что меньше года назад я был студентом <a href="http://blog.vonoiral.com/post/My-universities/">совсем другого университета</a>, в совсем другой стране. Можно сказать, что мой год начался с сессии, как в принципе и любой год за последние пять лет. Повезло же родиться летом :&ndash;)</p></li>
-<li><p><strong>Свадьба</strong>. В сентябре я женился на самой чудесной девушке в мире. Любимая, спасибо, что ты есть и что терпишь мои недостатки.</p></li>
-<li><p><strong>Переезд в Манчестер</strong>. Переезд давался очень непросто, и думаю, что стоит составить гайд того, что должен сделать начинающий эмигрант. Кстати, последний раз я был в России пол года назад, и никогда прежде не уезжал так надолго. Думаю на следующей неделе меня ждёт культурный шок ;&ndash;)</p></li>
-<li><p><strong>Блог</strong>. В феврале я начал активно заниматься этим блогом. Надеюсь, что в дальнейшем у меня будет время продолжать радовать вас интересным контентом.</p></li>
-<li><p>Сдача финальных экзаменов в <strong>MMU</strong> и <strong>CIMA</strong>. Май оказался одним из самых напряжённых месяцев. Сразу навалилось множество экзаменов, диссертация и ещё сотня мелочей. Но теперь я наконец-то свободен и могу полностью посвятить себя семье, диссертации и вам, дорогие читатели.</p></li>
-</ol>
-
-
-<p>За прошедший год нам с Дашей удалось посетить следующие страны, я думаю, что уже стоит разобрать фотографии и порадовать вас нашими яркими и красочными воспоминаниями из безусловно удавшихся поездок:</p>
-
-<ul>
-<li>Испания</li>
-<li>Великобритания</li>
-<li>Франция</li>
-<li>Австрия</li>
-</ul>
-
-
-<p>Вот таким был этот непростой год, а так я выгляжу на <strong>07/06/2013</strong>:</p>
-
-<p><img src="https://dl.dropboxusercontent.com/u/5371087/nikita-larionov.jpg" alt="image" /></p>
-
-<p>Кстати, следить за всеми нашими перемещениями по миру гораздо проще, чем может показаться. Подписывайтесь на нас в Инстаграмме и всегда будьте в курсе не только того, что мы едим, но и того, где мы находимся: <a href="http://instagram.com/dartsmenka">@dartsmenka</a> и <a href="http://instagram.com/igon">@igon</a>.</p>
-
-<p>Кстати, на следующей неделе я буду на <a href="http://www.netpromoter.com/conferences/">конференции Satmetrix</a> в Лондоне. Надеюсь, получится выделить время и возобновить традиционную пятничную рубрику, о <a href="http://blog.vonoiral.com/post/6-sposobov-uluchshit-linkblogh/">переосмыслении которой</a> я писал на этой неделе. Если времени не будет, пожалуйста не обессудьте.  Обещаю, вернувшись в Россию, я опишу это мероприятие и расскажу, что такое индекс NPS и почему так важна клиентская лояльность.</p>
-
-<p>На этом всё. Спасибо, что вы читаете то, что я пишу.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/post/6-sposobov-uluchshit-linkblogh">6 способов улучшить линкблог</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-06-05T00:00:00+04:00" pubdate data-updated="true">Среда,  5 Июня 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Вести ещё один <a href="http://en.wikipedia.org/wiki/Linklog">линкблог</a> очень клёво и просто! Если у вас есть 15 минут в неделю, то у вас всё получится!</p>
-
-<p>Вести ещё один <em>популярный и читаемый</em> линкблог — куда сложнее, нужно думать, анализировать аудиторию и работать с контентом.</p>
-
-<p>Я веду <a href="http://blog.vonoiral.com/blog/categories/reading/">рубрику пятничных ссылок</a> уже на протяжении одиннадцати недель, и пришло время несколько переработать формат и проанализировать статистику.</p>
-
-<p>Думаю, эта статья будет полезна тем, кто задумается о том, стоит ли завести линкблог, а также тем из вас, кто уже его ведёт и думает о развитии.</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/post/6-sposobov-uluchshit-linkblogh">Подробнее &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-      <a class="prev" href="/blog/page/2/">&larr; Дальше в прошлое</a>
-    
-    <a href="/blog/archives">Архив Блога</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Самое новое:</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/post/Crowdinvesting-in-Russia">Краудинвестинг в России: казнить нельзя помиловать</a>
-      </li>
-    
-      <li class="post">
-        <a href="/post/What-is-knopka-com">Кнопка – сервис для успешных краудфандинговых компаний</a>
-      </li>
-    
-      <li class="post">
-        <a href="/post/How-could-one-get-maximum-from-smm-in-crowdfunding">Как получить максимум от использования социальные сетей при сборе денег через краудфандинг?</a>
-      </li>
-    
-      <li class="post">
-        <a href="/post/CrowdcultPro-2013-how-not-to-rich-sucess-with-crowdfunding">CrowdcultPro 2013. Как (не) собрать денег через краудфандинг?</a>
-      </li>
-    
-      <li class="post">
-        <a href="/post/RIW-2013-15-mistakes">RIW 2013. 15 типичных ошибок краудфандингового проекта</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-<section class="googleplus googleplus-hidden">
-  <h1>
-    <a href="https://plus.google.com/101713525252814752257?rel=author">
-      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
-      Google+
-    </a>
-  </h1>
-</section>
-
-
-<section>
-  <h1>Твиттер:</h1>
-  <a class="twitter-timeline" href="https://twitter.com/igon" data-widget-id="340960223160332288">Твиты пользователя @igon</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-</section>
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  &copy; 2014 - Никита Ларионов -
-  <span class="credit">Движок <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-<script type="text/javascript">
-      var disqus_shortname = 'saratovmanchester';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter20653468 = new Ya.Metrika({id:20653468,
-                    webvisor:true,
-                    clickmap:true,
-                    trackLinks:true});
-        } catch(e) { }
-    });
-
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f, false);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="//mc.yandex.ru/watch/20653468" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-
-
-</body>
-</html>
+</feed>
