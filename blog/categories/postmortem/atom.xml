@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Категория: crowdfunding, | Толпа профинансирует!]]></title>
-  <link href="http://vonoiral.github.io/blog/categories/crowdfunding/atom.xml" rel="self"/>
+  <title><![CDATA[Категория: postmortem | Толпа профинансирует!]]></title>
+  <link href="http://vonoiral.github.io/blog/categories/postmortem/atom.xml" rel="self"/>
   <link href="http://vonoiral.github.io/"/>
   <updated>2014-05-04T23:52:26+04:00</updated>
   <id>http://vonoiral.github.io/</id>
