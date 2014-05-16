@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: crowdfunding, | Блог Никиты Ларионов]]></title>
+  <title><![CDATA[Category: crowdfunding, | Блог Никиты Ларионова]]></title>
   <link href="http://blog.vonoiral.com/blog/categories/crowdfunding/atom.xml" rel="self"/>
   <link href="http://blog.vonoiral.com/"/>
-  <updated>2014-05-16T20:11:36+04:00</updated>
+  <updated>2014-05-16T20:13:50+04:00</updated>
   <id>http://blog.vonoiral.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Топа профинансирует переезжает.]]></title>
+    <title type="html"><![CDATA[Топа профинансирует переезжает]]></title>
     <link href="http://blog.vonoiral.com/blog/2014/05/16/crowdfuning-relocates/"/>
     <updated>2014-05-16T09:00:00+04:00</updated>
     <id>http://blog.vonoiral.com/blog/2014/05/16/crowdfuning-relocates</id>
